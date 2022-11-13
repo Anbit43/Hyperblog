@@ -3,3 +3,5 @@ sobre como se hacen los branch y merge
 
 Tratare de llegar al punto de hacerlo con 
 perfeccion o por lo menos mas soltura
+Debi empezar desde cero para recordar como 
+se hacen los commit.
